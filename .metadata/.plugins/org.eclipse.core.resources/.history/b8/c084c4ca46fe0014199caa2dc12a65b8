@@ -1,0 +1,5 @@
+package ro.pub.cs.systems.pdsd.practicaltest02var04.networkingthreads;
+
+public class ServerThread {
+
+}

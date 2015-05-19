@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+D:\Student\GitHub\PracticalTest02Var4\.metadata\.plugins\org.eclipse.jdt.core
+2060488214.index
+3685909308.index
+820638920.index
+4106002046.index
+362787433.index
